@@ -36,3 +36,20 @@ public class WrapperClassDemo
         System.out.println("Parsed and autoboxed Boolean: " + parsedBoolean);
     }
 }
+/*Autoboxing:
+Integer value: 100
+Float value: 25.5
+Character value: A
+Boolean value: true
+
+Unboxing:
+int value: 100
+float value: 25.5
+char value: A
+boolean value: true
+
+Parsing Strings and Autoboxing:
+Integer: 500
+Float: 45.5
+Character: Z
+Boolean: true*/
