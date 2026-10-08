@@ -111,3 +111,19 @@ public class Convertor {
         sc.close();
     }
 }
+/*Enter the code:
+1: Currency
+2: Distance
+3: Time
+1
+Enter the Currency code:
+1: Euro
+2: Dollar
+3: Yen
+2
+Enter amount in rupees
+1000
+ Dollar : 15.152
+Enter amount in Dollar
+15.152
+Rupees : 1000.032*/
