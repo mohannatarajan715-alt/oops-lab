@@ -1,0 +1,20 @@
+         Enter Consumer number =
+1
+
+         Enter Consumer name =
+John
+
+         Enter the type of connection =
+Commercial
+
+         Enter pre_month reading =
+2000
+
+         Enter current_month reading =
+250
+
+         Customer name = John
+
+         Total units = -1750.0
+
+         Total bill = Rs 0.0

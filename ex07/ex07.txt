@@ -1,0 +1,5 @@
+New Thread 8 is EVEN and Square of 8 is: 64
+New Thread 5 is ODD and Cube of 5 is: 125
+New Thread 12 is EVEN and Square of 12 is: 144
+New Thread 7 is ODD and Cube of 7 is: 343
+New Thread 4 is EVEN and Square of 4 is: 16
