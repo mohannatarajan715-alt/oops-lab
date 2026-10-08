@@ -53,3 +53,24 @@ public class ArrayListExample {
         }
     }
 }
+/*Initially ArrayList:
+[Ajeet]
+
+After appending Babu:
+[Ajeet, Babu]
+
+After adding collection:
+[Ajeet, Babu, Alice]
+
+After adding at index:
+[Rahul, Justin, Ajeet, Babu, Alice]
+
+Enter string to search: Ajeet
+Ajeet is present in the ArrayList.
+
+Strings starting with 'A':
+Ajeet
+Alice
+
+After removing Chaitanya / selected element:
+[Rahul, Ajeet, Babu, Alice]*/
