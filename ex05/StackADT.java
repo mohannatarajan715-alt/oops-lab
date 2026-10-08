@@ -92,3 +92,30 @@ class StackADT
         while(ch<5);
     }
 }
+/*Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+1
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+2
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+3
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+2
+Popped element:3
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  1<-- 2<--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+4*/
