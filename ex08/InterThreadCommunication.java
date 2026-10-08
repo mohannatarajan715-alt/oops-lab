@@ -74,3 +74,13 @@ public class InterThreadCommunication {
         consumerThread.start();
     }
 }
+/*Producer produced: 1
+Consumer consumed: 1
+Producer produced: 2
+Consumer consumed: 2
+Producer produced: 3
+Consumer consumed: 3
+Producer produced: 4
+Consumer consumed: 4
+Producer produced: 5
+Consumer consumed: 5*/
