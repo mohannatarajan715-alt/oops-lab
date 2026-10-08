@@ -171,3 +171,29 @@ public class EmployeePayslip
 		}
 	}
 }	
+/*Enter Name of Employee :
+John
+Enter ID of Employee :
+1
+Enter Address of Employee:
+abc
+Enter Mail ID of Employee:
+abc@gmail.com
+Enter Mobile Number of Employee:
+1234567890
+Enter the BasicPay:
+100000
+Enter the Designation:
+1. Programmer
+2.AssistantProfessor
+3.AssociateProfessor
+4.Professor
+5.Exit
+1
+Name of The Employee :John*****payslip****
+Employee Name: John
+Employee_ID: 1
+Address: abc
+Mobile Number: 1234567890
+Grosssalary=219100.0
+Netsalary =207000.0*/
